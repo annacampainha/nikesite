@@ -16,5 +16,32 @@
 
 .ui.borderless.middlemenu.menu {
   height: 60px;
-
+  padding-left: 30px;
+  padding-right: 30px;
 }
+.ui.search {
+  line-height: 60px;
+}
+.ui.test.ad {
+
+  background-color: #f5f5f5;
+  text-color: #000000;
+}
+
+.ui.centered.image {
+ height: 80%;
+  width: 1500px;
+}
+
+.ui.container {
+  max-width: 1808px;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
