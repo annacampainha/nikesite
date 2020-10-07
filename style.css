@@ -41,19 +41,6 @@
   left: 16px;
 }
 
-.mj-background {
-  background: url(https://i.insider.com/5ebc26be3dac9a799c410c64?width=1100&format=jpeg&auto=webp) no-repeat center center;
-  background-size: cover;
-  height: 600px;
-}
-
-#jordan > h2 {
-  color: white;
-  font-family: 'Bebas Neue', cursive;
-  font-weight: bold;
-  font-size: 150px;
-}
-
 .footer-background {
   height: 300px;
   background-color: black;
@@ -68,14 +55,55 @@
   font-weight: bolder;
   color: white;
 }
+.drop-style {
+  color: lightgray;
+}
 
 .ui.four.column.grid.container {
   padding-top: 30px;
 }
+.mj-background {
+  background: url(https://i.insider.com/5ebc26be3dac9a799c410c64?width=1100&format=jpeg&auto=webp) no-repeat center center;
+  background-size: cover;
+  height: 600px;
+}
+
+#jordan > h2 {
+  color: white;
+  font-family: 'Bebas Neue', cursive;
+  font-weight: bold;
+  font-size: 150px;
+}
+
 .sydney-background {
   background: url(https://www.stylesalute.com/wp-content/uploads/2017/07/fa17_nike_flyknit_bra_sydney_04_original3.jpg) no-repeat center center;
   background-size: cover;
   height: 600px;
-  width: 600px;
+  width: 563.5px;
   padding-bottom: 50px;
+}
+#sydney > h2 {
+  color: white;
+  font-family: 'Bebas Neue', cursive;
+  font-weight: lighter;
+  font-size: 35px;
+}
+h3 {
+  color: black;
+  font-family: 'Bebas Neue', cursive;
+  font-weight: lighter;
+}
+
+.alex-background {
+  background: url(https://i.pinimg.com/originals/69/ad/0d/69ad0db7b7688843687a8928c314b730.jpg) no-repeat center center;
+  background-size: cover;
+  height: 600px;
+  width: 563.5px;
+  padding-bottom: 50px;
+}
+#alex > h2 {
+  color: white;
+  font-family: 'Bebas Neue', cursive;
+  font-weight: lighter;
+  font-size: 35px;
 }
