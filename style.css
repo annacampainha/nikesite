@@ -28,10 +28,6 @@
   text-color: #000000;
 }
 
-.ui.centered.image {
- height: 80%;
-  width: 1500px;
-}
 
 .ui.container {
   max-width: 1808px;
@@ -43,5 +39,23 @@
   position: absolute;
   top: 8px;
   left: 16px;
+}
+
+.mj-background {
+  background: url(https://i.insider.com/5ebc26be3dac9a799c410c64?width=1100&format=jpeg&auto=webp) no-repeat center center fixed;
+  background-size: cover;
+  height: 600px;
+}
+
+#jordan {
+  color: white;
+  font-family: 'Bebas Neue', cursive;
+  font-weight: bold;
+  font-size: 300px;
+}
+
+.footer-background {
+  height: 300px;
+  background-color: black
 }
 
